@@ -1,0 +1,12 @@
+name = "addressable"
+repo = "https://github.com/OriPekelman/spinel-addressable"
+
+[[release]]
+version = "0.3.0"
+ref = "b2ba5fa18f34311ff38aebb594cf2e1c627240fb"
+
+[[probe]]
+version = "0.3.0"
+spinel = "c51b0a1c08d5"
+result = "pass"
+date = "2026-07-27"
