@@ -1,0 +1,12 @@
+name = "rqrcode"
+repo = "https://github.com/rubys/spinel-rqrcode"
+
+[[release]]
+version = "0.1.0"
+ref = "37a2d805980b0adc730ecdf2be3b6cf8facd3fcf"
+
+[[probe]]
+version = "0.1.0"
+spinel = "d0feb620"
+result = "pass"
+date = "2026-09-14"
