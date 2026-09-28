@@ -1,0 +1,12 @@
+name = "pure_jpeg"
+repo = "https://github.com/peterc/pure_jpeg"
+
+[[release]]
+version = "0.4.0"
+ref = "db86cdcc51fe647394afb7b0f987eb429e9127e2"
+
+[[probe]]
+version = "0.4.0"
+spinel = "b3cf642"
+result = "pass"
+date = "2026-09-28"
