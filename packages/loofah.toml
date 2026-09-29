@@ -1,0 +1,12 @@
+name = "loofah"
+repo = "https://github.com/rubys/spinel-loofah"
+
+[[release]]
+version = "0.1.0"
+ref = "86c75f4f8aab99494996af42be0b33b693c80da3"
+
+[[probe]]
+version = "0.1.0"
+spinel = "1963b7732"
+result = "pass"
+date = "2026-09-29"
