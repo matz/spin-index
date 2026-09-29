@@ -1,0 +1,12 @@
+name = "crass"
+repo = "https://github.com/rubys/spinel-crass"
+
+[[release]]
+version = "0.1.0"
+ref = "70fa52a6af96b1776c5a45a6d77ab9049351c33c"
+
+[[probe]]
+version = "0.1.0"
+spinel = "1963b7732"
+result = "pass"
+date = "2026-09-29"
