@@ -1,0 +1,22 @@
+name = "ruby-vips"
+repo = "https://github.com/rubys/spinel-ruby-vips"
+
+[[release]]
+version = "0.1.0"
+ref = "70e90f375f5dcf8c8bdd2fa90cdc265544d9fc15"
+
+[[release]]
+version = "0.2.0"
+ref = "040eabab7dc2e51b6d876680d6e134bf4aaa9396"
+
+[[probe]]
+version = "0.1.0"
+spinel = "84249514"
+result = "pass"
+date = "2026-09-12"
+
+[[probe]]
+version = "0.2.0"
+spinel = "24fb088eb"
+result = "pass"
+date = "2026-10-17"
