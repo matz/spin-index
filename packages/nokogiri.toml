@@ -1,5 +1,5 @@
 name = "nokogiri"
-repo = "https://github.com/rubys/spinel-nokogiri"
+repo = "https://github.com/roundhouse-rb/spinel-nokogiri"
 
 [[release]]
 version = "0.2.0"
