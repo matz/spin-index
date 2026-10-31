@@ -1,5 +1,5 @@
 name = "ruby-vips"
-repo = "https://github.com/rubys/spinel-ruby-vips"
+repo = "https://github.com/roundhouse-rb/spinel-ruby-vips"
 
 [[release]]
 version = "0.1.0"
