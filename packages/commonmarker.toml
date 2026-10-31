@@ -1,0 +1,12 @@
+name = "commonmarker"
+repo = "https://github.com/roundhouse-rb/spinel-commonmarker"
+
+[[release]]
+version = "0.1.0"
+ref = "9a4b4bf066680090c12fcf46dc008f9ba737721a"
+
+[[probe]]
+version = "0.1.0"
+spinel = "7e8e0727"
+result = "pass"
+date = "2026-09-26"
