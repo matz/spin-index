@@ -1,5 +1,5 @@
 name = "commonmarker"
-repo = "https://github.com/rubys/spinel-commonmarker"
+repo = "https://github.com/roundhouse-rb/spinel-commonmarker"
 
 [[release]]
 version = "0.1.0"
