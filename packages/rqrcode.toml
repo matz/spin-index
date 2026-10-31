@@ -1,5 +1,5 @@
 name = "rqrcode"
-repo = "https://github.com/rubys/spinel-rqrcode"
+repo = "https://github.com/roundhouse-rb/spinel-rqrcode"
 
 [[release]]
 version = "0.1.0"
