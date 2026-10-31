@@ -1,5 +1,5 @@
 name = "loofah"
-repo = "https://github.com/rubys/spinel-loofah"
+repo = "https://github.com/roundhouse-rb/spinel-loofah"
 
 [[release]]
 version = "0.1.0"
