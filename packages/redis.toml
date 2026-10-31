@@ -1,5 +1,5 @@
 name = "redis"
-repo = "https://github.com/rubys/spinel-redis"
+repo = "https://github.com/roundhouse-rb/spinel-redis"
 
 [[release]]
 version = "0.1.0"
