@@ -1,5 +1,5 @@
 name = "bcrypt"
-repo = "https://github.com/rubys/spinel-bcrypt"
+repo = "https://github.com/roundhouse-rb/spinel-bcrypt"
 
 [[release]]
 version = "0.1.0"
