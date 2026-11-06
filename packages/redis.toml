@@ -1,12 +1,40 @@
 name = "redis"
-repo = "https://github.com/rubys/spinel-redis"
+repo = "https://github.com/roundhouse-rb/spinel-redis"
 
 [[release]]
 version = "0.1.0"
 ref = "4c2ceaba0377e49ae907324f9632f55e874aa808"
+
+[[release]]
+version = "0.2.0"
+ref = "527b3e3d48e1b787e156613255fb511793af7d6d"
+
+[[release]]
+version = "0.3.1"
+ref = "0863f7ea9e9cd6404b7ef15a2fed6e061c39f88e"
+
+[[release]]
+version = "0.3.3"
+ref = "81f086845740d8ed623b66229f701f5448d27f6c"
 
 [[probe]]
 version = "0.1.0"
 spinel = "6c8dfa95829b"
 result = "pass"
 date = "2026-07-07"
+
+[[release]]
+version = "0.1.1"
+ref = "d388fceda77585b44b323c833beca971370d6d03"
+
+[[probe]]
+version = "0.1.1"
+spinel = "d90ed5290"
+result = "pass"
+date = "2026-10-01"
+
+[[probe]]
+version = "0.2.0"
+spinel = "24fb088eb"
+result = "pass"
+date = "2026-10-17"
