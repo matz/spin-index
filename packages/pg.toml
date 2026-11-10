@@ -1,12 +1,22 @@
 name = "pg"
-repo = "https://github.com/rubys/spinel-pg"
+repo = "https://github.com/roundhouse-rb/spinel-pg"
 
 [[release]]
 version = "0.1.0"
 ref = "ca485ffcad655f6d2c198e9ace5e3171fedecfa6"
+
+[[release]]
+version = "0.2.0"
+ref = "5ff0188b0e8dffc88337723411ac725ee2659ff7"
 
 [[probe]]
 version = "0.1.0"
 spinel = "a7e42e904cad"
 result = "pass"
 date = "2026-07-07"
+
+[[probe]]
+version = "0.2.0"
+spinel = "24fb088eb"
+result = "pass"
+date = "2026-10-17"
