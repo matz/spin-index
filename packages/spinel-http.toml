@@ -1,0 +1,12 @@
+name = "spinel-http"
+repo = "https://github.com/saeki-mototsune/spinel-http"
+
+[[release]]
+version = "0.1.2"
+ref = "3db460ce34c25a4714459155f6917b531835beb4"
+
+[[probe]]
+version = "0.1.2"
+spinel = "86421ea5"
+result = "pass"
+date = "2026-11-24"
