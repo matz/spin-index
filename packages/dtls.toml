@@ -9,6 +9,10 @@ ref = "8c0482970d087136840e16bb45ae4a136cac0c1e"
 version = "0.2.0"
 ref = "87cb9d50206767eb4e7f211be5ba2d9c731f0415"
 
+[[release]]
+version = "0.3.0"
+ref = "e3ed80c4ef3726658326dcbb56a154ad670e155d"
+
 [[probe]]
 version = "0.1.0"
 spinel = "ee8d7f743"
@@ -17,6 +21,12 @@ date = "2026-11-28"
 
 [[probe]]
 version = "0.2.0"
+spinel = "e125a352b"
+result = "pass"
+date = "2026-11-28"
+
+[[probe]]
+version = "0.3.0"
 spinel = "e125a352b"
 result = "pass"
 date = "2026-11-28"
