@@ -5,8 +5,18 @@ repo = "https://github.com/TeamMilestone/spinel-dtls"
 version = "0.1.0"
 ref = "8c0482970d087136840e16bb45ae4a136cac0c1e"
 
+[[release]]
+version = "0.2.0"
+ref = "87cb9d50206767eb4e7f211be5ba2d9c731f0415"
+
 [[probe]]
 version = "0.1.0"
 spinel = "ee8d7f743"
+result = "pass"
+date = "2026-11-28"
+
+[[probe]]
+version = "0.2.0"
+spinel = "e125a352b"
 result = "pass"
 date = "2026-11-28"
