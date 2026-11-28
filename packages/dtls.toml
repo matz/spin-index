@@ -1,0 +1,12 @@
+name = "dtls"
+repo = "https://github.com/TeamMilestone/spinel-dtls"
+
+[[release]]
+version = "0.1.0"
+ref = "8c0482970d087136840e16bb45ae4a136cac0c1e"
+
+[[probe]]
+version = "0.1.0"
+spinel = "ee8d7f743"
+result = "pass"
+date = "2026-11-28"
